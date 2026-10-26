@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kaveesha Piyumal
 
-### 💻 Full-Stack Developer | Software Engineering Graduate
+### 💻 Full-Stack Developer | Software Engineering Undergraduate
 
 Passionate about building scalable, secure, and modern software applications.
 
